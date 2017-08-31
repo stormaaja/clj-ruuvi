@@ -1,4 +1,4 @@
-(ns clj-ruuvi.url-decoder
+(ns ruuvi-clj.url-decoder
   (:import java.util.Base64))
 
 ; Functions for converting RuuviTag URL to values

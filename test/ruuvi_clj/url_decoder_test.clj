@@ -1,6 +1,6 @@
-(ns clj-ruuvi.url-decoder-test
+(ns ruuvi-clj.url-decoder-test
   (:require [clojure.test :refer :all]
-            [clj-ruuvi.url-decoder :refer :all]))
+            [ruuvi-clj.url-decoder :refer :all]))
 
 (defn abs
   [n]
